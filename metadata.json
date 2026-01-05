@@ -1,0 +1,5 @@
+{
+  "name": "Placement Assistant Bot",
+  "description": "A strictly menu-driven placement assistance chatbot providing company details, eligibility criteria, interview preparation tips, and contact information.",
+  "requestFramePermissions": []
+}
